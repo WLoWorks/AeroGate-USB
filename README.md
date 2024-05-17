@@ -38,21 +38,21 @@ AeroGate USB is an advanced digital forensic tool designed to enhance the effici
 ## Usage
 Plug AeroGate USB into the Target Machine:
 
-Connect the AeroGate USB device to the target machine from which data will be extracted.
+- Connect the AeroGate USB device to the target machine from which data will be extracted.
 
--Connect Devices to Network:
+Connect Devices to Network:
 
-Ensure the target machine, server machine, and your smartphone or computer are connected to the same network.
+- Ensure the target machine, server machine, and your smartphone or computer are connected to the same network.
 
--Select and Run Payloads:
+Select and Run Payloads:
 
-Access the AeroGate USB interface via your smartphone or computer.
+- Access the AeroGate USB interface via your smartphone or computer.
 
-Select the desired forensic payload and execute it on the target machine.
+- Select the desired forensic payload and execute it on the target machine.
 
--Manage and Analyze Data:
+Manage and Analyze Data:
 
-Use the web server interface to manage, analyze, and download the extracted data.
+- Use the web server interface to manage, analyze, and download the extracted data.
 
 ## Scripts
 ###Connect Server Script
