@@ -1,8 +1,0 @@
-layout('us')
-press("GUI r")
-delay(500)
-type("powershell\n")
-delay(1000)
-type("Get-NetTCPConnection | Out-File E:\\ForensicData\\ActiveConnections.txt\n")
-type("Get-NetUDPEndpoint | Out-File E:\\ForensicData\\OpenUDPPorts.txt\n")
-type("exit\n")
