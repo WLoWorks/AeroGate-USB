@@ -19,27 +19,24 @@ USB Connector
 Power Supply (Micro-USB charger)
 Internet connection for network setup
 
-Installation
+
 Setup Raspberry Pi 0 W:
 Flash the Raspberry Pi OS onto the microSD card.
 Connect the Raspberry Pi 0 W to power and internet.
 Install the P4wnP1 ALOA platform on the Raspberry Pi 0 W.
-Clone the Repository:
+Clone the Repository: git clone https://github.com/YourUsername/AeroGate-USB.git
 
-
-git clone https://github.com/YourUsername/AeroGate-USB.git
 cd AeroGate-USB
 
-Install Dependencies
 Install required Python packages:
 pip install -r requirements.txt
 Ensure all necessary libraries for P4wnP1 ALOA are installed.
 
-Deploy Web Server:
+
 Start the web server using the provided script:
 python3 http-server.py
 
-Usage
+
 Plug AeroGate USB into the Target Machine:
   Connect the AeroGate USB device to the target machine from which data will be extracted.
 
@@ -63,26 +60,23 @@ Cookie Extraction Script
 File Extraction Script
   Automates the extraction of various file types from the target device.
 
-History Extraction Script
+History Extraction Script:
 Retrieves browser history files from Google Chrome profiles.
 
-Logs Extraction Script
+Logs Extraction Script:
 Exports system, security, and application event logs from the target device.
 
-Open Ports Script
+Open Ports Script:
   Identifies active TCP and UDP connections on the target device.
 
-Running Processes & Services Script
+Running Processes & Services Script:
   Captures a list of running processes and the status of services on the target device.
 
-SAM & SYSTEM Extraction Script
+SAM & SYSTEM Extraction Script:
   Extracts the SAM and SYSTEM registry hives from the target device.
 
-USB Formatting Script
+USB Formatting Script:
   Formats the USB drive by deleting non-essential files.
-
-Contributing
-  Contributions are welcome! Please fork this repository and submit a pull request with your proposed changes.
 
 
 Acknowledgments
