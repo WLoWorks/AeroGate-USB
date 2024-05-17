@@ -55,7 +55,7 @@ Manage and Analyze Data:
 - Use the web server interface to manage, analyze, and download the extracted data.
 
 ## Scripts
-###Connect Server Script
+### Connect Server Script
 Starts the HTTP server on the Raspberry Pi, enabling remote access to forensic data.
 
 ### Cookie Extraction Script
