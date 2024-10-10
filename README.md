@@ -87,7 +87,7 @@ Formats the USB drive by deleting non-essential files.
 
 
 ### Acknowledgments
-Special thanks to Dr. Haitham Ghalwash and Eng. May Shalaby for their guidance and support throughout this project. Thanks also to the forensic analysts and cybersecurity professionals who provided valuable feedback and insights during development and testing.
+Special thanks to my supportive advisors Dr. Haitham Ghalwash and Eng. May Shalaby at Coventry University for their guidance and support throughout this project. Thanks also to the forensic analysts and cybersecurity professionals who provided valuable feedback and insights during development and testing.
 
 Contact
 For any questions or further information, please contact:
